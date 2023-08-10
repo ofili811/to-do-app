@@ -1,7 +1,7 @@
 let inputEle = document.querySelector(".input");
 let submitEle = document.querySelector(".add");
-let tasksDiv = document.querySelector(".tasks")
-let containerDiv = document.querySelector(".container")
+let tasksDiv = document.querySelector(".tasks");
+let containerDiv = document.querySelector(".container");
 let deleteAll = document.querySelector(".delete-all");
 let arrayOfTasks =[];
 // console.log(inputEle)
